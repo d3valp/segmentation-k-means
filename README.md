@@ -1,6 +1,6 @@
 # Customer Segmentation with K-Means, SQL, FastAPI, and Streamlit
 
-A recruiter-facing data science project that segments retail customers using **RFM features** (Recency, Frequency, Monetary value), profiles the resulting clusters, and exposes the outcome through both a **FastAPI service** and a **Streamlit dashboard**.
+A data science project that segments retail customers using **RFM features** (Recency, Frequency, Monetary value), profiles the resulting clusters, and exposes the outcome through both a **FastAPI service** and a **Streamlit dashboard**.
 
 ## Why this project matters
 
